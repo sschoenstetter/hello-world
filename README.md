@@ -1,2 +1,2 @@
 # hello-world
-Just for lerning
+Just for learning
